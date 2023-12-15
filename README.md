@@ -1,1 +1,1 @@
-A simple landing page built with html and css. Web development training, Africa Agility.
+A simple landing page built with html and css. Web development training, Africa Agility Programme.
